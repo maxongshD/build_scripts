@@ -1,4 +1,4 @@
-!/bin/bash
+
 
 # Removals
 rm -rf .repo/local_manifests
