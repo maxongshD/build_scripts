@@ -11,6 +11,10 @@ git clone https://github.com/maxongshD/android_manifest_xiaomi_garnet.git --dept
 # Sync the repositories
 /opt/crave/resync.sh
 
+# Exports
+export BUILD_USERNAME=Merossi
+export BUILD_HOSTNAME=crave
+
 # Set up build environment
 source build/envsetup.sh
 
