@@ -14,4 +14,4 @@ git clone https://github.com/maxongshD/android_manifest_xiaomi_garnet.git --dept
 # Set up build environment
 source build/envsetup.sh
 
-brunch garnet userdebug 
+brunch garnet user 
